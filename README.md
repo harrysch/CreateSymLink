@@ -20,7 +20,7 @@ Output
 
 ## Install
 
-Download CreateSymLink.worflow and copy the file to 
+Download CreateSymLink.workflow.tar.gz and copy the file to 
 
 	~/Library/Services
 
