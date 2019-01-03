@@ -5,7 +5,7 @@
 SH_DEBUG_ON="ON"
 SH_DEBUG_OFF="OFF"
 # 
-SH_DEBUG=$SH_DEBUG_ON
+SH_DEBUG=$SH_DEBUG_OFF
 
 function d_echo {
 	if [ $SH_DEBUG == $SH_DEBUG_ON ]
