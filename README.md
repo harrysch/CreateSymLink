@@ -25,4 +25,4 @@ Download CreateSymLink.worflow and copy the file to
 	~/Library/Services
 
 Or install source CreateSymLink.sh with Automator
-![](./Automator-CreateSymLink.png) {:width="36px"}
+![](./Automator-CreateSymLink.png)
