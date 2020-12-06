@@ -2,7 +2,7 @@
 
 The Mac Finder-Menu supports creating Mac-Aliases, Create SymLink makes an unix links: "Name.link"
 
-CreateSymLink handles spaces or pecial characters
+CreateSymLink handles spaces or special characters
 
 CreateSymLink works also with write-protected directories - the link will be created in Users Desktop-Folder
 
